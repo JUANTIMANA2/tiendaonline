@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+header{
+    width: 100%;
+    border-top: 3px outset black;
+    border-left: 3px outset black;
+    border-right: 3px outset black;
+    height: 100px;
+}
+body {
+    
+   background: url(/IMAGE/artículos-esenciales-moda-accesorios-femeninos-contra-fondo-de-color-rosa-para-mujeres-ropa-plana-tendencias-y-concepto-compras-187522065.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+nav{
+    width: 100%;
+    height: 40px;
+}
+article{
+    background: url(/images/images.jpg);
+
+    width: 100%;
+    height:503px;
+    float: left;
+    border-left: 3px outset black;
+    border-right: 3px outset black;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    border: 3px outset black;
+    float: left;
+}
+.menu{
+    padding: 0;
+}
+.menu li{
+    float: left;
+    background-color: black;
+    width: 20%;
+    list-style: none;
+    box-sizing: border-box;
+    height: 40px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    padding: 6px;
+}
+.menu li a{
+    font-family: monospace;
+    text-decoration-line: none;
+    color: white;
+}
+.menu li:hover{
+    background-color: white;
+    cursor: pointer;
+    color: black;
+}
+footer img{
+    height: 140px;
+    float: right;
+}
+.TxtFo{
+    float: left;
+    font-family: monospace;
+    font-size: 16px; 
+}
+
+.wsp img{
+    float: right;
+    height: 50px;
+    
+   
+}
+.fb img{
+    float: right;
+    height: 50px;
+    align-items: center;
+}
+.Txtcorreo{
+    
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+}
+header img{
+    float: left;
+}
+.TxtArt{
+    font-family: monospace;
+    font-size: 50px;
+    text-align: justify;
+    padding: 8px 8px 8px 8px;
+    color: rgb(241, 238, 238);
+}
+.videoll{
+    height: 340px;
+
+    width: 50%;
+    text-align: center;
+    float: left;
+    
+}
+.articulodos{
+    height: 340px;
+
+    width: 50%;
+    float: left;
+}
+.articulodos div{
+    padding: 0 0 0 9px;
+    float: left;
+    width: 35%;
+    height:203px;
+}
+.articulodos img{
+    border: 3px outset black;
+}
+header form{
+    padding: 25px;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.u-full-width{
+    font-size: 30px;
+    color: black;
+    background-color: rgb(202, 200, 200);
+}
+.submit-buscador{
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+.inicia a{
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 13px;
+    padding-left: 5px;
+}
+.registrate a{
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    padding-top: 13px;
+    border-right: 1px solid black;
+    padding-right: 5px;
+    border-bottom: 1px solid black;
+}
+.carrito a img{
+    height: 50px;
+    float: right;
+    padding-right: 10px;
+}
