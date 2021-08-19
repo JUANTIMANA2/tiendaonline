@@ -1,2 +1,0 @@
-# tiendaonline
-diseñoweb_zegel
